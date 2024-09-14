@@ -20,6 +20,8 @@ While this GPT does not execute real automation, it effectively communicates the
 [Decision Automation](https://github.com/sourceduty/Decision_Automation)
 <br>
 [Automated Business](https://github.com/sourceduty/Automated_Business)
+<br>
+[Automated Solar Power](https://github.com/sourceduty/Automated_Solar_Power)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
